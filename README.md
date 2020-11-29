@@ -1,6 +1,8 @@
-# Data Modeling with PostgreSQL
-
-
+# Data Modeling with PostgreSQL 
+Building a relational database on simulated data. 
+  
+  
+*An Udacity Data Engineer Nanodegree project*
 
 ## Content
 - [Description](#description)
